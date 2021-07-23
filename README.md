@@ -1,7 +1,7 @@
 # Virtual Iinternship - PwC
 ## Power BI Virtual Case Experience - Call Centre Trends
 ------------
-
+[![](C:\Users\cynth\Documents\Cynthya\Project\to_clone\PwC\PwC\png\Power BI Virtual Case Experience - Forage.png)](C:\Users\cynth\Documents\Cynthya\Project\to_clone\PwC\PwC\png\Power BI Virtual Case Experience - Forage.png)
 ### Background information - Task1
 
 The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
@@ -52,3 +52,35 @@ The Retentions Manager has provided some information, have a look below.
 
 **Required data:**
 Churn Dataset Spreedsheet: **02 Churn-Dataset.xlsx**
+
+### Background information - Task3
+
+Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
+
+At PwC Switzerland we are often approached by clients seeking support with diversity and inclusion. Companies need a workforce of diverse talents and backgrounds to succeed in an increasingly complex and heterogeneous world. To us, diversity and inclusion are business imperatives, not just nice-to-haves. We aim for all of our teams to feel welcome and appreciated. But actually achieving this and unlocking its potential involves a whole set of practical challenges.
+
+Why is this so?
+Think about the importance of strategy, awareness and education, analytics and inspiration. 
+
+Here is a hint: Calculating the following measures could help to define proper KPIs:
+
+- num of men
+- num of women
+- num of leavers
+- % employees promoted (FY21)
+- % of women promoted
+- % of hires men
+- % of hires women
+- % turnover 
+- Average performance rating: men
+- Average Performance rating: women
+
+#### What to do
+
+Your task is to do the following:
+
+- Define relevant KPIs in hiring, promotion, performance and turnover, and create a visualisation
+- Write what you think some root causes of their slow progress might be
+
+**Required data:**
+Diversity-Inclusion Dataset Spreedsheet: **03 Diversity-Inclusion-Dataset.xlsx**
