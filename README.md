@@ -1,8 +1,9 @@
 # Virtual Iinternship - PwC
 ## Power BI Virtual Case Experience - Call Centre Trends
 ------------
-[![](C:\Users\cynth\Documents\Cynthya\Project\to_clone\PwC\PwC\png\Power BI Virtual Case Experience - Forage.png)](C:\Users\cynth\Documents\Cynthya\Project\to_clone\PwC\PwC\png\Power BI Virtual Case Experience - Forage.png)
-### Background information - Task1
+[![](https://github.com/Cynthyah/PwC/blob/main/png/Power%20BI%20Virtual%20Case%20Experience%20-%20Forage.png)](https://github.com/Cynthyah/PwC/blob/main/png/Power%20BI%20Virtual%20Case%20Experience%20-%20Forage.png)
+
+### Background information - Call Centre Trends - Task1
 
 The digital revolution and our fast-changing world requires a skills revolution. And it’s not just about the digital skills. The skills revolution is about helping people build their digital awareness, emotional intelligence and creativity to fully participate in the digital future workplace — and it needs to start now.
 
@@ -28,7 +29,7 @@ Possible KPIs include (to get you started, but not limited to):
 **Required data:**
 Call Centre Dataset Spreedsheet: **01 Call-Center-Dataset.xlsx**
 
-### Background information - Task2
+### Background information - Customer Retention - Task2
 
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
@@ -53,7 +54,7 @@ The Retentions Manager has provided some information, have a look below.
 **Required data:**
 Churn Dataset Spreedsheet: **02 Churn-Dataset.xlsx**
 
-### Background information - Task3
+### Background information - Diversity & Inclusion - Task3
 
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
